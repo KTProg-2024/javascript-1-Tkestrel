@@ -2,3 +2,25 @@ p {
 	font-family: Arial;
 	color: red;
 }
+
+.green{
+  background-color: green;
+  color: white;
+}
+
+.red{
+  background-color: red;
+  color: black;
+}
+
+.cat{
+  background-color: ;
+}
+
+.dog{
+  background-color: ;
+}
+
+button{
+  font-weight: bold;
+}
