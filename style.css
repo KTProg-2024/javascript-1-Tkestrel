@@ -13,12 +13,24 @@ p {
   color: black;
 }
 
+.orange{
+  background-color: orange;
+  color: slategray;
+}
+
 .cat{
-  background-color: ;
+  background-color: lightgray;
+  color: darkgray;
 }
 
 .dog{
-  background-color: ;
+  background-color: lightgray;
+  color: darkgray;
+}
+
+.bunny{
+  background-color: lightgray;
+  color: darkgray;
 }
 
 button{
